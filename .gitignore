@@ -1,0 +1,8 @@
+# ignore dll
+*.dll
+
+# ignore .json
+*.json
+
+# ignore mac tings
+**/.DS_Store
